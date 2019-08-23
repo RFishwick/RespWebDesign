@@ -37,14 +37,10 @@ main {
     padding-left: 240px;
     padding-right: 240px;
 }
-
-footer p {
-    background-color: rgba(0, 0, 0, 0.733);
-    height: 100px;
-    text-decoration: none;
-    font-size:10px;
-    padding-left: 10px;
-    padding-right: 10px;
+footer {
+    background-color: rgba(0, 0, 0, 0.728);
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 h1 {
@@ -72,4 +68,8 @@ nav a {
     padding-right: 10px;
 }
 
-
+footer p {
+    font-size: 10px;
+    text-align: center;
+    color: rgb(198, 198, 198);
+}
